@@ -1,8 +1,16 @@
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
 # Machine Learning & Deep Learning Short Course
 **African Center of Excellence in Data Science**<br>
 **Kigali, Rwanda**<br>
 **July 8 - 12, 2019**
-![RIT/ACEDS Logos](/img/rit-aceds.png)
+![RIT/ACEDS Logos](/img/rit-aceds.png){: .image-left}
 
 ## Welcome to GitHub Pages
 
