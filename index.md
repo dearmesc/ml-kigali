@@ -2,7 +2,7 @@
 **African Center of Excellence in Data Science**<br>
 **Kigali, Rwanda**<br>
 **July 8 - 12, 2019**<br>
-![RIT/ACEDS Logos](/img/rit-aceds.png)
+![RIT/ACEDS Logos](/img/logos.png)
 
 ## Welcome to GitHub Pages
 
