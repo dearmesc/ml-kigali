@@ -1,3 +1,9 @@
+# Machine Learning & Deep Learning Short Course
+**African Center of Excellence in Data Science**<br>
+**Kigali, Rwanda**<br>
+**July 8 - 12, 2019**
+![RIT/ACEDS Logos](/img/rit-aceds.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dearmesc/ml-kigali/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
